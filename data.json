@@ -1,0 +1,47 @@
+{
+  "basic":{
+    "image": "download.jpeg",
+    "name": "Sai Sasank",
+    "email": "saisasank31@gmail.com",
+    "number": "9492954460",
+    "address": "1-296,aphb colony,rjy"
+  },
+  "career":{
+    "info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+  },
+  "education":[
+  {
+    "institute": "pragati",
+    "degree": "btech",
+    "passout": "2021"
+  },
+  {
+    "institute": "Sasi",
+    "degree": "intermediate",
+    "passout": "2017"
+  },
+  {
+    "institute": "bhashyam",
+    "degree": "ssc",
+    "passout": "2015"
+  }
+],
+"skills":[
+  {
+    "info": "LANGUAGES",
+    "details" : ["c","c++","java","python"]
+  },
+  {
+    "info": "OPERATING SYSTEMS",
+    "details" : ["windows","ios","android","ubuntu"]
+  },
+  {
+    "info": "DATABASES",
+    "details" : ["oracle","mysql","tinydb"]
+  },
+  {
+    "info": "ACHIEVEMENTS",
+    "details" : ["internship","nptel","hydspin","frontend"]
+  }
+]
+}
